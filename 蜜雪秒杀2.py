@@ -75,7 +75,7 @@ class MXMS:
             time.sleep(0.75)
         print(datetime.datetime.now())
 if __name__ == '__main__':
-    atoken='eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUx'
+    atoken='eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwaG9uZV8xODE4ODE1MzI4NDg3NDM2Mjg5IiwiaWF0IjoxNzIyNDc0MzQwfQ.s3X5wRpk0XEEUOURg8u5HZNdeP-2mT3DT7WbGjVpRI01Pe4xAKnQQT3kHdGtThrvKrGof-CkSzbTlVYsp14N-Q&eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ3eG1pbmlfMTgxOTczMDM2NzA0MTk3MDE3OCIsImlhdCI6MTcyMjY5MjUwM30.tmKFRfkQy5sPUg0v65WboJF_dHvJ1qa-VTPg5Yt2BjS8WsPhBF3q4oIju5sYRdBp05g65_Rat9nFxKswXn9DKw'
     marketingId='1816854086004391938'
     secretword = "茉莉奶绿销量突破2000万杯"
     fb_cont = 300
