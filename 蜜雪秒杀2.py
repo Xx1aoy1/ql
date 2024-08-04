@@ -77,7 +77,7 @@ class MXMS:
 if __name__ == '__main__':
     atoken='eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUx'
     marketingId='1816854086004391938'
-    secretword = "好一朵美丽的茉莉花"
+    secretword = "茉莉奶绿销量突破2000万杯"
     fb_cont = 300
     nowTine0 = time.strftime('%H', time.localtime())
     nextTime0 = str(int(nowTine0) + 1).zfill(2)
